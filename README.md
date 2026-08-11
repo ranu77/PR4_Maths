@@ -52,6 +52,9 @@ Calculative-Foundation/
 * Cross Product
 * Vector Projection
 
+  <img width="685" height="528" alt="image" src="https://github.com/user-attachments/assets/3f68e353-c71d-4142-890c-582084a97453" />
+
+
 ### Part B — Matrix Operations
 
 * Student × Subject Matrix
@@ -67,6 +70,12 @@ Calculative-Foundation/
 * Planes in 3D
 * Hyperplanes
 * Dimensionality from 2D → 3D → Higher Dimensions
+
+<img width="689" height="531" alt="image" src="https://github.com/user-attachments/assets/f572b387-2b99-4a91-b17f-ceb82235e312" />
+
+<img width="475" height="484" alt="image" src="https://github.com/user-attachments/assets/f2f345de-679c-4446-9aa2-a134649ec608" />
+
+
 
 ### Part D — Eigenvalues & Decomposition
 
@@ -194,6 +203,3 @@ Provides an overview of the project, technologies, concepts, and instructions fo
 
 **Devanshi Kanthariya**
 
-
-
-### ⭐ If you found this project useful, consider giving the repository a star!
