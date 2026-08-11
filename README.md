@@ -185,7 +185,7 @@ Contains theoretical explanations and definitions of the Linear Algebra concepts
 
 ### 📖 README.md
 
-Provides an overview of the project, technologies, concepts, and instructions for running the notebook.
+Provides an overview of the project, technologies, concepts.
 
 ---
 
